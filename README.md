@@ -47,7 +47,7 @@ Repo ini berisi implementasi sederhana dari Sistem Manajemen Kamar Hotel menggun
 Beberapa kamar default ditambahkan ke dalam linked list untuk tujuan demonstrasi.
 
 ## 【 Screenshot 】
-Untuk screenshot lebih lengkap, [lihat disini](/tree/main/Screenshot%20Output).
+Untuk screenshot lebih lengkap, [lihat disini](/Screenshot%20Output).
 
 <img src="https://github.com/SirGhazian/manajemen-hotel/assets/142916107/1a359842-b05f-4f10-af19-da813f30b467" width="400">
 <img src="https://github.com/SirGhazian/manajemen-hotel/assets/142916107/e60a3e1a-6ce7-470c-a3c7-c19644626c97" width="400">

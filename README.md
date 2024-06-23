@@ -56,3 +56,12 @@ Untuk screenshot lebih lengkap, [lihat disini](/Screenshot%20Output).
 <img src="https://github.com/SirGhazian/manajemen-hotel/assets/142916107/75997f93-a1a7-42f8-b64b-d05096a15780" width="400">
 <img src="https://github.com/SirGhazian/manajemen-hotel/assets/142916107/c7dc161d-421b-427d-9e0d-d980ceae0cc5" width="400">
 <img src="https://github.com/SirGhazian/manajemen-hotel/assets/142916107/fc2cf7b1-70d5-4097-8c2b-17c79e8fb954" width="400">
+
+## <a id="about"></a>【 About and Help 】
+
+Untuk bantuan dan pertanyaan, silahkan hubungi sosial media saya:
+<img align="right" width="100" src="https://github.com/SirGhazian/praktikum-struktur-data-UNP/assets/142916107/b140fe43-3a57-4295-8493-79d929a5e3b0">
+
+-   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghazian_tza)
+-   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCIp_064wQ8RqNSEy1asx_4w)
+

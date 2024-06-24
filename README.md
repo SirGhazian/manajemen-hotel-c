@@ -57,7 +57,7 @@ Untuk screenshot lebih lengkap, [lihat disini](/Screenshot%20Output).
 <img src="https://github.com/SirGhazian/manajemen-hotel/assets/142916107/c7dc161d-421b-427d-9e0d-d980ceae0cc5" width="400">
 <img src="https://github.com/SirGhazian/manajemen-hotel/assets/142916107/fc2cf7b1-70d5-4097-8c2b-17c79e8fb954" width="400">
 
-## <a id="about"></a>【 About and Help 】
+## 【 About and Help 】
 
 Untuk bantuan dan pertanyaan, silahkan hubungi sosial media saya:
 <img align="right" width="100" src="https://github.com/SirGhazian/praktikum-struktur-data-UNP/assets/142916107/b140fe43-3a57-4295-8493-79d929a5e3b0">

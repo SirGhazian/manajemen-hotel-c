@@ -9,7 +9,7 @@ Repo ini berisi implementasi sederhana dari Sistem Manajemen Kamar Hotel menggun
 
 ## 【 Fitur 】
 - Tambah kamar baru
-- Tampilkan semua kamar
+- Tampilkan semua kamarr
 - Cari kamar berdasarkan kode
 - Urutkan kamar berdasarkan kode atau harga (ascending/descending)
 - Filter kamar berdasarkan kategori (Ekonomi/VIP)
